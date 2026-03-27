@@ -13,6 +13,7 @@ __additional
 # test_*.py amn ini_*.py and some other should be kept
 !**/test_*.py
 !**/ini_*.py
+!**/sol_*.py
 
 !P5/trees/tree_nodes.py
 !P5/trees/drawtree.py
